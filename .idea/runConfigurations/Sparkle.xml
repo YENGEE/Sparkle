@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Sparkle" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Sparkle" PROJECT_NAME="Sparkle" TARGET_NAME="Sparkle" CONFIG_NAME="Debug" PROGRAM_PARAMS="-AppleLanguages &quot;(ja)&quot;" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="Sparkle" RUN_TARGET_NAME="Sparkle Test App" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+    <envs />
+    <RunnerSettings RunnerId="AppRunner" />
+    <ConfigurationWrapper RunnerId="AppRunner" />
+    <method />
+  </configuration>
+</component>
